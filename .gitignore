@@ -1,0 +1,15 @@
+/.vscode
+
+# Logs
+*.log
+
+# Compile files
+*.class
+*.py[co]
+*.py?
+
+*~
+__pycache__
+myvenv
+*.sqlite3
+*.sqlite
